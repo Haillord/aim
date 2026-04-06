@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" alt="StealthAimer Banner" src="https://i.imgur.com/AzWq9jP.png">
+  <img src="icon.png" alt="FinCat Banner" style="max-width: 100%; width: auto; height: auto;">
 </p>
 
 <p align="center">
