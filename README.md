@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" width="20%" alt="Stealth AI Aimer">
+  <img src="icon.png" width="100%" alt="Stealth AI Aimer">
 </p>
 
 <p align="center">
